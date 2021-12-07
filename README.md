@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**joshuap16/joshuap16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'am Joshua! 👋
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😃 About Me
+A self taught person that motivated and passionate to explore and to study.
+Willing to learn with others to improve my skills and gain new knowledge. Having
+interest in coding since senior high in a ICT strand then taking BSIT in college to
+continuously learn and understand my field and expertise. Always seek for
+information and new experience to develop my personal growth.
+
+## 💻 What I Do
+- Web Design
+- Web Development
+- Front End
+- Back End
+
+
+## 🛠 What I Use
+
+#### Language and Technologies
+- HTML5
+- CSS3
+- JAVASCRIPT
+- PHP
+- NODEJS
+- REACT
+
+#### Tools
+- VSCode
