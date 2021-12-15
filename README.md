@@ -14,9 +14,8 @@
 >
 > Always seek for information and new experience to develop my personal growth.
 
-##### Socials:
-> <p align='center'>
-Socials
+#### Socials:
+<p align='center'>
 <a href="https://www.facebook.com/joshjoshuap1/"><img height="30" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/Facebook-logo.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/joshjoshuap_/"><img height="30" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JoshJoshuaP_"><img height="30" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/twitter.png"></a>&nbsp;&nbsp;
@@ -24,7 +23,8 @@ Socials
 </p>
 
 ## 💻 What I Do
-<img height="100" width="100" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-design.png"> <h4> Web Design </h4> <br />
+<p><img height="300" width="100" style="float:left;" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-design.png"> <h4 style="float:right;"> Web Design </h4> <br /> </p>
+
 <img height="100" width="100" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-dev.jpg"> <h4> Web Development </h4> <br />
 <img height="100" width="100" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/front-end.jpg"> <h4> Front End </h4> <br />
 <img height="100" width="100" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/back-end.jpg"> <h4> Back End </h4> <br />
@@ -37,4 +37,4 @@ Socials
 
 
 ### Tools
-<img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.jfif"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/figma.png?raw=true">
+<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.jfif"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/figma.png?raw=true">
