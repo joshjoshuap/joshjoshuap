@@ -23,13 +23,13 @@ Always seek for information and new experience to develop my personal growth.
 </p>
 
 ## 💻 What I Do
-<img height="200" width="400" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/web-design.jpg?raw=true"> 
+<img height="100" width="200" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/web-design.jpg?raw=true"> 
 
-<img height="200" width="400" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/web-dev.png?raw=true">  
+<img height="100" width="200" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/web-dev.png?raw=true">  
 
-<img height="200" width="400" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/frontend.png?raw=true">
+<img height="100" width="200" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/frontend.png?raw=true">
 
-<img height="200" width="400" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/backend.png?raw=true">
+<img height="100" width="200" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/backend.png?raw=true">
 
 
 ## 🛠 What I Use
@@ -49,5 +49,7 @@ Always seek for information and new experience to develop my personal growth.
 
 ### Tools:
 <p>
-<img height="70" width="70" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
-  </p>
+  <img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
+</p>
