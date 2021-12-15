@@ -3,16 +3,8 @@
 
 # Hi, I'am Joshua! 👋
 
-
-
 ## 😃 Who Am I
-A self taught person that motivated and passionate to explore and to study.
-Willing to learn with others to improve my skills and gain new knowledge. 
-
-Having interest in coding since senior high in a ICT strand then taking BSIT in college to
-continuously learn and understand my field and expertise. 
-
-Always seek for information and new experience to develop my personal growth.
+A self taught person that motivated and passionate to explore and to study. Willing to learn with others to improve my skills and gain new knowledge. Having interest in coding since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field and expertise. Always seek for information and new experience to develop my personal growth.
 
 #### Socials:
 <p align='center'>
