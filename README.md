@@ -42,4 +42,4 @@ Always seek for information and new experience to develop my personal growth.
 
 
 ### Tools:
-<img style="border-radius:100%;" height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.jfif"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.png?raw=true">
+<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
