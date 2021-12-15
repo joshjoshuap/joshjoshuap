@@ -8,7 +8,7 @@ A self taught person that motivated and passionate to explore and to study. Will
 
 #### Socials:
 <p align='center'>
-<a href="https://www.facebook.com/joshjoshuap1/"><img height="40" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/Facebook-logo.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/joshjoshuap1/"><img height="35" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/Facebook-logo.png"></a>&nbsp;
 <a href="https://www.instagram.com/joshjoshuap_/"><img height="30" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JoshJoshuaP_"><img height="30" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joshuapautanes/"><img height="30" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/174857.png"></a>
