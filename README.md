@@ -6,13 +6,13 @@
 
 
 ## 😃 Who Am I
-> A self taught person that motivated and passionate to explore and to study.
-> Willing to learn with others to improve my skills and gain new knowledge. 
->
-> Havinginterest in coding since senior high in a ICT strand then taking BSIT in college to
-> continuously learn and understand my field and expertise. 
->
-> Always seek for information and new experience to develop my personal growth.
+A self taught person that motivated and passionate to explore and to study.
+Willing to learn with others to improve my skills and gain new knowledge. 
+
+Havinginterest in coding since senior high in a ICT strand then taking BSIT in college to
+continuously learn and understand my field and expertise. 
+
+Always seek for information and new experience to develop my personal growth.
 
 #### Socials:
 <p align='center'>
@@ -23,17 +23,17 @@
 </p>
 
 ## 💻 What I Do
-<p><img height="300" width="100" style="float:left;" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-design.png"> <h4 style="float:right;"> Web Design </h4> <br /> </p>
+<img height="200" width="500" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-design.png"> <h4> Web Design </h4> <br /> 
 
-<img height="100" width="100" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-dev.jpg"> <h4> Web Development </h4> <br />
-<img height="100" width="100" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/front-end.jpg"> <h4> Front End </h4> <br />
-<img height="100" width="100" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/back-end.jpg"> <h4> Back End </h4> <br />
+<img height="200" width="500" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-dev.jpg"> <h4> Web Development </h4> <br />
+<img height="200" width="500" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/front-end.jpg"> <h4> Front End </h4> <br />
+<img height="200" width="500" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/back-end.jpg"> <h4> Back End </h4> <br />
 
 
 ## 🛠 What I Use
 
 ### Language and Technologies
-<img height="30" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/html.png"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/css.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/javascript.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/php.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/nodejs.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/express.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/react.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/laravel.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/mongodb.png?raw=true"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/mysql.png?raw=true">
+<img height="50" width="50" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/html.png"><img height="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/css.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/javascript.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/php.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/nodejs.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/express.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/react.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/laravel.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/mongodb.png?raw=true"><img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/mysql.png?raw=true">
 
 
 ### Tools
