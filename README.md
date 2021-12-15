@@ -51,5 +51,5 @@ Always seek for information and new experience to develop my personal growth.
 <p>
   <img height="60" width="60" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.png?raw=true">&nbsp;&nbsp;
   <img height="60" width="60" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true">&nbsp;&nbsp;
-  <img height="50" width="100" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
+  <img height="60" width="120" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
 </p>
