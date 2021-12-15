@@ -4,7 +4,9 @@
 # Hi, I'am Joshua! 👋
 
 ## 😃 Who Am I
-A self taught person that motivated and passionate to explore and to study. Willing to learn with others to improve my skills and gain new knowledge. Having interest in coding since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field and expertise. Always seek for information and new experience to develop my personal growth.
+<h4> 
+A self taught person that motivated and passionate to explore and to study. Willing to learn with others to improve my skills and gain new knowledge. Having interest in coding since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field and expertise. Always seek for information and new experience to develop my personal growth. 
+</h4>
 
 #### Socials:
 <p align='center'>
@@ -15,13 +17,13 @@ A self taught person that motivated and passionate to explore and to study. Will
 </p>
 
 ## 💻 What I Do
-<img height="100" width="200" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/web-design.jpg?raw=true"> 
+<img height="150" width="300" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/web-design.jpg?raw=true"> 
 
-<img height="100" width="200" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/web-dev.png?raw=true">  
+<img height="150" width="300" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/web-dev.png?raw=true">  
 
-<img height="100" width="200" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/frontend.png?raw=true">
+<img height="150" width="300" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/frontend.png?raw=true">
 
-<img height="100" width="200" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/backend.png?raw=true">
+<img height="150" width="300" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/backend.png?raw=true">
 
 
 ## 🛠 What I Use
@@ -43,5 +45,5 @@ A self taught person that motivated and passionate to explore and to study. Will
 <p>
   <img height="60" width="60" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.png?raw=true">&nbsp;&nbsp;
   <img height="60" width="60" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true">&nbsp;&nbsp;
-  <img height="60" width="120" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
+  <img height="60" width="130" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
 </p>
