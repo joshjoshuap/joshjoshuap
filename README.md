@@ -35,10 +35,19 @@ Always seek for information and new experience to develop my personal growth.
 ## 🛠 What I Use
 ### Language and Technologies:
 <p>
-<img height="50" width="50" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/html.png">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/css.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/javascript.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/php.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/nodejs.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/express.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/react.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/laravel.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/mongodb.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/mysql.png?raw=true">
+<img height="50" width="50" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/html.png">&nbsp;&nbsp;
+  <img height="50" width="30" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/css.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/javascript.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="70" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/php.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="100" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/nodejs.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="100" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/express.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="60" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/react.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="60" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/laravel.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="60" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/mongodb.png?raw=true">&nbsp;&nbsp;
+  <img height="50" width="80" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/mysql.png?raw=true">
 </p>
 
 ### Tools:
 <p>
-<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
+<img height="70" width="70" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/vscode.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/bash.png?raw=true">&nbsp;&nbsp;<img height="50" width="50" src="https://github.com/joshuap16/joshuap16/blob/main/icon-images/git.png?raw=true">
   </p>
