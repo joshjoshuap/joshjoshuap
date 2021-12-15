@@ -24,16 +24,16 @@ Always seek for information and new experience to develop my personal growth.
 
 ## 💻 What I Do
 <img height="200" width="500" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-design.png"> 
-### Web Design  
+<h2> Web Design </h2>
 
 <img height="200" width="500" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/web-dev.jpg">  
-### Web Development 
+<h2> Web Development </h2>
 
 <img height="200" width="500" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/front-end.jpg">
-### Front End
+<h2> Front End </h2>
 
 <img height="200" width="500" src="https://raw.githubusercontent.com/joshuap16/joshuap16/main/icon-images/back-end.jpg">
-### Back End
+<h2> Back End </h2>
 
 
 ## 🛠 What I Use
