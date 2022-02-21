@@ -3,7 +3,7 @@
 </p>
 
 
-# Hi, I'am Joshua! 👋
+# Hi, I'am Joshua Nice to meet You! 👋
 
 <h3> 😃 Who I Am </h3>
 <h4> 
