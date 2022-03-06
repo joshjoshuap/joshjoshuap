@@ -5,11 +5,11 @@
 
 # Hi, I'am Joshua Nice to meet You! 👋
 
-<h3> 😃 Who I Am </h3>
-<h4> 
+<h2> 😃 Who I Am </h2>
+<h3> 
 A self-taught person that love to explore and to study. Willing to learn and passionate to do task. Having interest in programming since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field and expertise. Always seek for new knowledge and best experience to develop my personal growth and skills.
 
-</h4>
+</h3>
 
 <p align='center'>
 <a href="https://www.facebook.com/joshjoshuap1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
