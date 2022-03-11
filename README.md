@@ -18,7 +18,6 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 <a href="https://www.linkedin.com/in/joshuapautanes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<a href="https://app.daily.dev/Josh_Joshua"><img src="https://api.daily.dev/devcards/3a30b2b223e4449090d52f5f17bacf0e.png?r=6lu" width="200" alt="Joshua Personal's Dev Card"/></a>
 <br></br>
 
 ## 💻 What I Do
@@ -38,3 +37,12 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 
 > <h3> Tools </h3>
 > <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"><img height="40" width="40" src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667"><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224">
+
+<br></br>
+
+## 💻 Additional
+> ### Code Wars
+> <img src="https://www.codewars.com/users/joshuap16/badges/large">
+
+> ### Daily Dev
+> <a href="https://app.daily.dev/Josh_Joshua"><img src="https://api.daily.dev/devcards/3a30b2b223e4449090d52f5f17bacf0e.png?r=6lu" width="200" alt="Joshua Personal's Dev Card"/></a>
