@@ -18,6 +18,7 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 <a href="https://www.linkedin.com/in/joshuapautanes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+<a href="https://app.daily.dev/Josh_Joshua"><img src="https://api.daily.dev/devcards/3a30b2b223e4449090d52f5f17bacf0e.png?r=6lu" width="200" alt="Joshua Personal's Dev Card"/></a>
 <br></br>
 
 ## 💻 What I Do
