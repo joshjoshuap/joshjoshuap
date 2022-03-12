@@ -7,7 +7,7 @@
 
 <h2> 😃 Who I Am </h2>
 <h3> 
-A self-taught person that love to explore and to study. Willing to learn and passionate to do task. Having interest in programming since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field and expertise. Always seek for new knowledge and best experience to develop my personal growth and skills.
+A self-taught person that love to explore and to study. Willing to learn and passionate to do task. Having interest in programming since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field. Always seek for new knowledge as well as best experience to develop my personal growth and skills.
 
 </h3>
 
