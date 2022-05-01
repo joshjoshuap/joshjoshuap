@@ -6,7 +6,9 @@
 
 ## 😃 Who I Am
 
-**A self-taught person that love to explore and to study. Willing to learn and passionate to do task. Having interest in programming since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field. Always seek for new knowledge as well as best experience to develop my personal growth and skills.**
+**A self-taught person that love to explore and to study. Willing to learn and passionate to do task. Having interest in programming since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field. Always seek for new knowledge as well as best experience to develop my personal growth and skills. I use technologies that applicable in industry standard and can adapt to tech trends.
+In Front-End development i use HTML, CSS, Javascript, Typescript, Bootstrap, React and NextJS Framework. 
+while in Back-End development i use NodeJS, ExpressJS, Rest API and MongoDB Database.**
 
 
 <p align='center'>
