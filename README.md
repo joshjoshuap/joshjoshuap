@@ -46,10 +46,10 @@ while in Back-End development i use NodeJS, ExpressJS, Rest API and MongoDB Data
 
 ## 💻 Additional
 ### Stats 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshjoshuap&theme=highcontrast)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=joshjoshuap&theme=blue-green">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshjoshuap&theme=blue-green"> 
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=joshjoshuap&theme=highcontrast'>
+<img src="https://github-readme-stats.vercel.app/api?username=joshjoshuap&theme=blue-green">
+
 
 
 
