@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="http://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
+<img src="https://github.com/joshjoshuap/joshjoshuap/blob/main/image-icon/personal-banner.jpg">
 </p>
 
 # Hi, I'am Joshua Nice to meet You! 👋
