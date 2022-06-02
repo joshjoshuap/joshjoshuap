@@ -22,10 +22,10 @@ while in Back-End development i use NodeJS, ExpressJS, Rest API and MongoDB Data
 
 ## 💻 What I Do
 <ul>
- <li> Web Design
- <li> Web Development
- <li> Front End
- <li> Back End
+ <li> <h3> Web Design </h3>
+ <li> <h3> Web Development </h3>
+ <li> <h3> Front End </h3>
+ <li> <h3> Back End </h3>
  </ul>
 
 <br />
