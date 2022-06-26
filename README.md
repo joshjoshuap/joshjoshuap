@@ -21,12 +21,7 @@ while in Back-End development i use NodeJS, ExpressJS, Rest API and MongoDB Data
 <br />
 
 ## 💻 What I Do
-<ul>
- <li> <h3> Web Design </h3>
- <li> <h3> Web Development </h3>
- <li> <h3> Front End </h3>
- <li> <h3> Back End </h3>
- </ul>
+<img src="https://github.com/joshjoshuap/joshjoshuap/blob/main/what-i-do.png" width="50%">
 
 <br />
 
