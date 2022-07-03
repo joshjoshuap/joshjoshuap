@@ -21,7 +21,7 @@ while in Back-End development i use NodeJS, ExpressJS, Rest API and MongoDB Data
 <br />
 
 ## 💻 What I Do
-<img src="https://github.com/joshjoshuap/joshjoshuap/blob/main/what-i-do.png" width="50%">
+<img src="https://github.com/joshjoshuap/joshjoshuap/blob/main/image-icon/what-i-do.png" width="50%">
 
 <br />
 
@@ -49,7 +49,7 @@ while in Back-End development i use NodeJS, ExpressJS, Rest API and MongoDB Data
 
 
 > ### Code Wars
-> <img src="https://www.codewars.com/users/joshuap16/badges/large">
+> <img src="https://www.codewars.com/users/joshjoshuap/badges/large">
 
 > ### Daily Dev
 > <a href="https://app.daily.dev/Josh_Joshua"><img src="https://api.daily.dev/devcards/3a30b2b223e4449090d52f5f17bacf0e.png?r=6lu" width="200" alt="Joshua Personal's Dev Card"/></a>
