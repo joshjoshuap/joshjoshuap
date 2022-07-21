@@ -19,7 +19,10 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 <br />
 
 ## 💻 What I Do
-<img src="https://github.com/joshjoshuap/joshjoshuap/blob/main/image-icon/what-i-do.png" width="50%">
+- Web design
+- Web Development
+- Front End Development
+- Backend Development
 
 <br />
 
