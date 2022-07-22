@@ -53,4 +53,4 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 > <img src="https://www.codewars.com/users/joshjoshuap/badges/large">
 
 > ### Daily Dev
-> <a href="https://app.daily.dev/joshjoshuap"><img src="https://api.daily.dev/devcards/cabac29599cd4326a848a2a80a3c2350.png?r=jwm" width="400" alt="Joshua's Dev Card"/></a>
+> <a href="https://app.daily.dev/joshjoshuap"><img src="https://api.daily.dev/devcards/cabac29599cd4326a848a2a80a3c2350.png?r=jwm" width="300" alt="Joshua's Dev Card"/></a>
