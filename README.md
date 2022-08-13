@@ -46,13 +46,10 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 <br></br>
 
 ## 💻 Additional
-### Stats 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshjoshuap&theme=blue-green"> 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=joshjoshuap&theme=highcontrast'>
-<img src="https://github-readme-stats.vercel.app/api?username=joshjoshuap&theme=blue-green">
-
-
-
+> ### Github Stats 
+> <img src='https://github-readme-streak-stats.herokuapp.com/?user=joshjoshuap&theme=highcontrast'>
+> <img src="https://github-readme-stats.vercel.app/api?username=joshjoshuap&theme=blue-green"> <br />
+> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshjoshuap&theme=blue-green"> 
 
 > ### Code Wars
 > <img src="https://www.codewars.com/users/joshjoshuap/badges/large">
