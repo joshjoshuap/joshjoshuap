@@ -35,7 +35,9 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 
 ## 💻 Additional
 > ### Github Stats 
-> ![Github Streaks][Github-streaks] ![Github Stats][Github-stats] ![Github Languages][Github-language]
+> ![Github Streaks][Github-streaks] 
+> ![Github Stats][Github-stats] <br />
+> ![Github Languages][Github-language]
 
 > ### Code Wars
 > ![Codewars][Codewars]
@@ -44,8 +46,7 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 > <a href="https://app.daily.dev/joshjoshuap"><img src="https://api.daily.dev/devcards/cabac29599cd4326a848a2a80a3c2350.png?r=r4n" width="300" alt="Joshua's Dev Card"/></a></a>
 
 <!-- Image & Links -->
-[Banner-image]: image/personal-banner.jpg
-[Service-image]: image/what-i-do.png
+[Banner-image]: image/personal-banner.png
 
 [Facebook-icon]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [Facebook-link]: https://www.facebook.com/joshjoshuap1
@@ -81,4 +82,4 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 [Codewars]: https://www.codewars.com/users/joshjoshuap/badges/large
 [Github-streaks]: https://github-readme-stats.vercel.app/api?username=joshjoshuap&theme=blue-green
 [Github-stats]: https://github-readme-streak-stats.herokuapp.com/?user=joshjoshuap&theme=highcontrast
-[Github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=joshjoshuap&theme=blue-green]
+[Github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=joshjoshuap&theme=blue-green
