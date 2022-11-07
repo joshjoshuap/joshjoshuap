@@ -17,7 +17,7 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 
 ## 💻 Tech Stack
 > ### Front End
-> ![HTML][Html-icon] ![CSS][CSS-icon] ![SASS][SASS-icon] ![Bootstrap][Bootstrap-icon] ![React][React-icon]
+> ![HTML][Html-icon] ![CSS][CSS-icon] ![SASS][SASS-icon] ![Bootstrap][Bootstrap-icon] ![Tailwind][Tailwind-icon] ![React][React-icon] 
 
 > ### Back End
 > ![NextJS][Next-icon] ![NodeJS][Node-icon] ![ExpressJS][Express-icon]
