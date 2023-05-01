@@ -1,6 +1,6 @@
 ![Banner][Banner-image]
 # Hello there
-# I'am Joshua nice to meet You! 👋
+# Nice to meet You! 👋
 
 ## 😃 About Me
 
@@ -28,8 +28,11 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 > ### Database
 > ![Mongodb][Mongodb-icon] ![Mysql][Mysql-icon]
 
-> ### Tools 
-> ![Visual Studio][VisualStudio-icon] ![VSCode][VSCode-icon] ![Git][Git-icon] ![Github][Github-icon] ![Figma][Figma-icon] ![Ubuntu][Ubuntu-icon]
+> ### Development
+> ![VSCode][VSCode-icon] ![Git][Git-icon] ![Github][Github-icon] ![HyperTerminal][HyperTerminal-icon]  ![Ubuntu][Ubuntu-icon] 
+
+> ### Design
+> ![Canva][Canva-icon] ![Figma][Figma-icon] ![Photoshop][Photoshop-icon]
 
 <br>
 
@@ -58,6 +61,7 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 [Twitter-link]: https://twitter.com/joshjoshuap1
 
 
+[Canva-icon]: https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
 [CSS-icon]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [Bootstrap-icon]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Express-icon]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
@@ -65,11 +69,13 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 [Git-icon]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [Github-icon]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [HTML-icon]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HyperTerminal-icon]: https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white
 [Javascript-icon]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [Mongodb-icon]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [Mysql-icon]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [Next-icon]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=
 [Node-icon]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Photoshop-icon]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
 [PHP-icon]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [React-icon]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [SASS-icon]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
