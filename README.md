@@ -1,66 +1,73 @@
 ![Banner][Banner-image]
+
 # Hello there
+
 # Nice to meet You! 👋
 
 ## 😃 About Me
 
-A self-taught person that love to explore and to study. Willing to learn and passionate to do task. Having interest in programming since senior high in a ICT strand then taking BSIT in college to continuously learn and understand my field. Always seek for new knowledge as well as best experience to develop my personal growth and skills. I use technologies that applicable in industry standard and can adapt to tech trends.
+I graduated with Bachelor Degree in Information Technology at Quezon City University and Senior High in ICT strand at STI College Novaliches. Studied programming, web development, and software. Have skills and knowledge in web development, web design, and system administration
+
+Currently I am working as an IT Support in an IT Software Company. Mostly I do is to give technical assistance to employee and maintain the Infrasctucture of the company
 
 [![Facebook][Facebook-icon]](Facebook-link)
 [![Instagram][Instagram-icon]](Instagram-link)
 [![Twitter][Twitter-icon]](Twitter-link)
 [![Linkedin][Linkedin-icon]](Linkedin-link)
 
-### Visit my Porfolio - [joshjoshuap.site](https://www.joshjoshuap.site)
+### Visit my Porfolio - [joshuap.site](https://www.joshuap.site)
 
 <br />
 
 ## 💻 Tech Stack
-> ### Front End
-> ![HTML][Html-icon] ![CSS][CSS-icon] ![SASS][SASS-icon] ![Bootstrap][Bootstrap-icon] ![Tailwind][Tailwind-icon] ![React][React-icon] 
-
-> ### Back End
-> ![NextJS][Next-icon] ![NodeJS][Node-icon] ![ExpressJS][Express-icon]
-
-> ### Programming Language 
-> ![Javascript][Javascript-icon] ![Typescript][Typescript-icon] ![PHP][PHP-icon]
-
-> ### Database
-> ![Mongodb][Mongodb-icon] ![Mysql][Mysql-icon]
 
 > ### Development
-> ![VSCode][VSCode-icon] ![Git][Git-icon] ![Github][Github-icon] ![HyperTerminal][HyperTerminal-icon]  ![Ubuntu][Ubuntu-icon] 
+>
+> ![HTML][Html-icon] ![CSS][CSS-icon] ![SASS][SASS-icon] ![Bootstrap][Bootstrap-icon] ![Tailwind][Tailwind-icon] ![React][React-icon] > ![NextJS][Next-icon] ![NodeJS][Node-icon] ![ExpressJS][Express-icon]
 
-> ### Design
-> ![Canva][Canva-icon] ![Figma][Figma-icon] ![Photoshop][Photoshop-icon]
+> ### Programming Language
+>
+> ![Javascript][Javascript-icon] ![Typescript][Typescript-icon]
+
+> ### Database
+>
+> ![Mongodb][Mongodb-icon] ![Mysql][Mysql-icon]
+
+> ### Software & Tools
+>
+> ![VSCode][VSCode-icon] ![Git][Git-icon] ![Github][Github-icon] ![HyperTerminal][HyperTerminal-icon] > ![Canva][Canva-icon] ![Figma][Figma-icon]
+
+> ### System Administration
+>
+> ![Ubuntu][Ubuntu-icon]
 
 <br>
 
 ## 💻 Additional
-> ### Github Stats 
-> ![Github Streaks][Github-streaks] 
-> ![Github Stats][Github-stats] <br />
-> ![Github Languages][Github-language]
+
+> ### Github Stats
+>
+> ![Github Streaks][Github-streaks] > ![Github Stats][Github-stats] <br /> > ![Github Languages][Github-language]
 
 > ### Code Wars
+>
 > ![Codewars][Codewars]
 
 > ### Daily Dev
+>
 > <a href="https://app.daily.dev/joshjoshuap"><img src="https://api.daily.dev/devcards/cabac29599cd4326a848a2a80a3c2350.png?r=r4n" width="300" alt="Joshua's Dev Card"/></a></a>
 
 <!-- Image & Links -->
-[Banner-image]: image/personal-banner.png
 
+[Banner-image]: image/personal-banner.png
 [Facebook-icon]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [Facebook-link]: https://www.facebook.com/joshjoshuap1
 [Instagram-icon]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [Instagram-link]: https://www.instagram.com/joshjoshuap1
-[Linkedin-icon]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
+[Linkedin-icon]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Linkedin-link]: https://www.linkedin.com/in/joshuapautanes
 [Twitter-icon]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [Twitter-link]: https://twitter.com/joshjoshuap1
-
-
 [Canva-icon]: https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
 [CSS-icon]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [Bootstrap-icon]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
@@ -83,8 +90,7 @@ A self-taught person that love to explore and to study. Willing to learn and pas
 [Typescript-icon]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [Ubuntu-icon]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [VisualStudio-icon]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-[VSCode-icon]:https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-
+[VSCode-icon]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 [Codewars]: https://www.codewars.com/users/joshjoshuap/badges/large
 [Github-streaks]: https://github-readme-stats.vercel.app/api?username=joshjoshuap&theme=blue-green
 [Github-stats]: https://github-readme-streak-stats.herokuapp.com/?user=joshjoshuap&theme=highcontrast
