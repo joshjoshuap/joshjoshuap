@@ -21,25 +21,29 @@ Currently I am working as an IT Support in an IT Software Company. Mostly I do i
 
 ## 💻 Tech Stack
 
-> ### Development
+> ### Web Development
 >
-> ![HTML][Html-icon] ![CSS][CSS-icon] ![SASS][SASS-icon] ![Bootstrap][Bootstrap-icon] ![Tailwind][Tailwind-icon] ![React][React-icon] > ![NextJS][Next-icon] ![NodeJS][Node-icon] ![ExpressJS][Express-icon]
+> ![HTML][Html-icon] ![CSS][CSS-icon] ![SASS][SASS-icon] ![Bootstrap][Bootstrap-icon]
 
 > ### Programming Language
 >
-> ![Javascript][Javascript-icon] ![Typescript][Typescript-icon]
+> ![Javascript][Javascript-icon] ![Typescript][Typescript-icon] ![Python][Python-icon]
 
 > ### Database
 >
 > ![Mongodb][Mongodb-icon] ![Mysql][Mysql-icon]
 
+> ### Framework
+>
+> ![Tailwind][Tailwind-icon] ![React][React-icon]![NextJS][Next-icon] ![NodeJS][Node-icon]
+
 > ### Software & Tools
 >
-> ![VSCode][VSCode-icon] ![Git][Git-icon] ![Github][Github-icon] ![HyperTerminal][HyperTerminal-icon] > ![Canva][Canva-icon] ![Figma][Figma-icon]
+> ![VSCode][VSCode-icon] ![Git][Git-icon] ![Github][Github-icon] ![HyperTerminal][HyperTerminal-icon] ![Canva][Canva-icon] ![Figma][Figma-icon]
 
 > ### System Administration
 >
-> ![Ubuntu][Ubuntu-icon]
+> ![Windows][Windows-icon] ![MacOS][MacOS-icon] ![Linux][Linux-icon] ![Ubuntu][Ubuntu-icon] ![Kali][Kali-icon] ![Fedora][Fedora-icon] ![CentOS][CentOS-icon]
 
 <br>
 
